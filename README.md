@@ -1,2 +1,2 @@
 # Atividade_banco.
-Atividade para desenvolver um projeto do caixa eletrônico.
+Atividade para desenvolver um projeto de caixa eletrônico.
